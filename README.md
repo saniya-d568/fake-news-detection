@@ -100,3 +100,6 @@ A high confidence score does not guarantee that a news article is true.
 **Saniya**
 
 GitHub: [@saniya-d568](https://github.com/saniya-d568)
+## Application Screenshot
+
+![Fake News Detection Application](fake-news-demo.png)
